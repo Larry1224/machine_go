@@ -1,0 +1,10 @@
+C:\Users\E2-417\source\repos\Software\Software\bin\Debug\Software.exe.config
+C:\Users\E2-417\source\repos\Software\Software\bin\Debug\Software.exe
+C:\Users\E2-417\source\repos\Software\Software\bin\Debug\Software.pdb
+C:\Users\E2-417\source\repos\Software\Software\obj\Debug\Software.csprojAssemblyReference.cache
+C:\Users\E2-417\source\repos\Software\Software\obj\Debug\Software.Form1.resources
+C:\Users\E2-417\source\repos\Software\Software\obj\Debug\Software.Properties.Resources.resources
+C:\Users\E2-417\source\repos\Software\Software\obj\Debug\Software.csproj.GenerateResource.cache
+C:\Users\E2-417\source\repos\Software\Software\obj\Debug\Software.csproj.CoreCompileInputs.cache
+C:\Users\E2-417\source\repos\Software\Software\obj\Debug\Software.exe
+C:\Users\E2-417\source\repos\Software\Software\obj\Debug\Software.pdb
