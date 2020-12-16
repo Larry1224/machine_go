@@ -27,6 +27,8 @@ namespace test
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // TODO: 這行程式碼會將資料載入 'machine_goDataSet1.Products' 資料表。您可以視需要進行移動或移除。
+            this.productsTableAdapter1.Fill(this.machine_goDataSet1.Products);
             // TODO: 這行程式碼會將資料載入 'machine_goDataSet.Products' 資料表。您可以視需要進行移動或移除。
             this.productsTableAdapter.Fill(this.machine_goDataSet.Products);
             // TODO: 這行程式碼會將資料載入 'machine_goDataSet.Transactions' 資料表。您可以視需要進行移動或移除。
