@@ -27,6 +27,8 @@ namespace _2_tier_desktop
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // TODO: 這行程式碼會將資料載入 'machine_goDataSet.Users' 資料表。您可以視需要進行移動或移除。
+            this.usersTableAdapter.Fill(this.machine_goDataSet.Users);
             // TODO: 這行程式碼會將資料載入 'machine_goDataSet.Categories' 資料表。您可以視需要進行移動或移除。
             this.categoriesTableAdapter.Fill(this.machine_goDataSet.Categories);
 
