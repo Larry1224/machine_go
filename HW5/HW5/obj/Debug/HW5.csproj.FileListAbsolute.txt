@@ -1,0 +1,14 @@
+C:\Users\E2-417\source\repos\HW5\HW5\bin\Debug\HW5.exe.config
+C:\Users\E2-417\source\repos\HW5\HW5\bin\Debug\HW5.exe
+C:\Users\E2-417\source\repos\HW5\HW5\bin\Debug\HW5.pdb
+C:\Users\E2-417\source\repos\HW5\HW5\obj\Debug\HW5.csprojAssemblyReference.cache
+C:\Users\E2-417\source\repos\HW5\HW5\obj\Debug\HW5.Form1.resources
+C:\Users\E2-417\source\repos\HW5\HW5\obj\Debug\HW5.Properties.Resources.resources
+C:\Users\E2-417\source\repos\HW5\HW5\obj\Debug\HW5.csproj.GenerateResource.cache
+C:\Users\E2-417\source\repos\HW5\HW5\obj\Debug\HW5.csproj.CoreCompileInputs.cache
+C:\Users\E2-417\source\repos\HW5\HW5\obj\Debug\HW5.exe
+C:\Users\E2-417\source\repos\HW5\HW5\obj\Debug\HW5.pdb
+C:\Users\E2-417\source\repos\HW5\HW5\bin\Debug\machine_goDataSet.Designer.cs
+C:\Users\E2-417\source\repos\HW5\HW5\bin\Debug\machine_goDataSet.xsc
+C:\Users\E2-417\source\repos\HW5\HW5\bin\Debug\machine_goDataSet.xsd
+C:\Users\E2-417\source\repos\HW5\HW5\bin\Debug\machine_goDataSet.xss
