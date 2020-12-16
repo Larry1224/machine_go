@@ -1,0 +1,10 @@
+D:\henry\class\soft\hw555\test\bin\Debug\test.exe.config
+D:\henry\class\soft\hw555\test\bin\Debug\test.exe
+D:\henry\class\soft\hw555\test\bin\Debug\test.pdb
+D:\henry\class\soft\hw555\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\henry\class\soft\hw555\test\obj\Debug\test.Form1.resources
+D:\henry\class\soft\hw555\test\obj\Debug\test.Properties.Resources.resources
+D:\henry\class\soft\hw555\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\henry\class\soft\hw555\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\henry\class\soft\hw555\test\obj\Debug\test.exe
+D:\henry\class\soft\hw555\test\obj\Debug\test.pdb
