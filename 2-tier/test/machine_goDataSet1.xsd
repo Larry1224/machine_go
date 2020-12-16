@@ -7,6 +7,7 @@
           <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="machine_goConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="machine_goConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.test.Properties.Settings.GlobalReference.Default.machine_goConnectionString" Provider="System.Data.SqlClient" />
         </Connections>
         <Tables>
+<<<<<<< HEAD
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="AdTableAdapter" GeneratorDataComponentClassName="AdTableAdapter" Name="Ad" UserDataComponentName="AdTableAdapter">
             <MainSource>
               <DbSource ConnectionRef="machine_goConnectionString (Settings)" DbObjectName="machine_go.dbo.Ad" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
@@ -305,6 +306,8 @@ SELECT Payment_id, Payment FROM Payment WHERE (Payment_id = @Payment_id)</Comman
             </Mappings>
             <Sources />
           </TableAdapter>
+=======
+>>>>>>> e187b429e05a4087e08be1ae54dfdf878932274f
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ProductsTableAdapter" GeneratorDataComponentClassName="ProductsTableAdapter" Name="Products" UserDataComponentName="ProductsTableAdapter">
             <MainSource>
               <DbSource ConnectionRef="machine_goConnectionString (Settings)" DbObjectName="machine_go.dbo.Products" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
@@ -389,6 +392,7 @@ SELECT product_id, title, category_id, Payment_id, Location_id, Country_id, cond
             </Mappings>
             <Sources />
           </TableAdapter>
+<<<<<<< HEAD
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="RatingsTableAdapter" GeneratorDataComponentClassName="RatingsTableAdapter" Name="Ratings" UserDataComponentName="RatingsTableAdapter">
             <MainSource>
               <DbSource ConnectionRef="machine_goConnectionString (Settings)" DbObjectName="machine_go.dbo.Ratings" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
@@ -672,6 +676,8 @@ SELECT user_id, first_name, last_name, email, Password FROM Users WHERE (user_id
             </Mappings>
             <Sources />
           </TableAdapter>
+=======
+>>>>>>> e187b429e05a4087e08be1ae54dfdf878932274f
         </Tables>
         <Sources />
       </DataSource>
@@ -680,6 +686,7 @@ SELECT user_id, first_name, last_name, email, Password FROM Users WHERE (user_id
   <xs:element name="machine_goDataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="machine_goDataSet1" msprop:Generator_UserDSName="machine_goDataSet1">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
+<<<<<<< HEAD
         <xs:element name="Ad" msprop:Generator_TableClassName="AdDataTable" msprop:Generator_TableVarName="tableAd" msprop:Generator_TablePropName="Ad" msprop:Generator_RowDeletingName="AdRowDeleting" msprop:Generator_RowChangingName="AdRowChanging" msprop:Generator_RowEvHandlerName="AdRowChangeEventHandler" msprop:Generator_RowDeletedName="AdRowDeleted" msprop:Generator_UserTableName="Ad" msprop:Generator_RowChangedName="AdRowChanged" msprop:Generator_RowEvArgName="AdRowChangeEvent" msprop:Generator_RowClassName="AdRow">
           <xs:complexType>
             <xs:sequence>
@@ -781,6 +788,8 @@ SELECT user_id, first_name, last_name, email, Password FROM Users WHERE (user_id
             </xs:sequence>
           </xs:complexType>
         </xs:element>
+=======
+>>>>>>> e187b429e05a4087e08be1ae54dfdf878932274f
         <xs:element name="Products" msprop:Generator_TableClassName="ProductsDataTable" msprop:Generator_TableVarName="tableProducts" msprop:Generator_TablePropName="Products" msprop:Generator_RowDeletingName="ProductsRowDeleting" msprop:Generator_RowChangingName="ProductsRowChanging" msprop:Generator_RowEvHandlerName="ProductsRowChangeEventHandler" msprop:Generator_RowDeletedName="ProductsRowDeleted" msprop:Generator_UserTableName="Products" msprop:Generator_RowChangedName="ProductsRowChanged" msprop:Generator_RowEvArgName="ProductsRowChangeEvent" msprop:Generator_RowClassName="ProductsRow">
           <xs:complexType>
             <xs:sequence>
@@ -807,6 +816,7 @@ SELECT user_id, first_name, last_name, email, Password FROM Users WHERE (user_id
             </xs:sequence>
           </xs:complexType>
         </xs:element>
+<<<<<<< HEAD
         <xs:element name="Ratings" msprop:Generator_TableClassName="RatingsDataTable" msprop:Generator_TableVarName="tableRatings" msprop:Generator_TablePropName="Ratings" msprop:Generator_RowDeletingName="RatingsRowDeleting" msprop:Generator_RowChangingName="RatingsRowChanging" msprop:Generator_RowEvHandlerName="RatingsRowChangeEventHandler" msprop:Generator_RowDeletedName="RatingsRowDeleted" msprop:Generator_UserTableName="Ratings" msprop:Generator_RowChangedName="RatingsRowChanged" msprop:Generator_RowEvArgName="RatingsRowChangeEvent" msprop:Generator_RowClassName="RatingsRow">
           <xs:complexType>
             <xs:sequence>
@@ -972,4 +982,13 @@ SELECT user_id, first_name, last_name, email, Password FROM Users WHERE (user_id
       <msdata:Relationship name="FK__Transacti__statu__3A81B327" msdata:parent="Status" msdata:child="Transactions" msdata:parentkey="Status_id" msdata:childkey="status_id" msprop:Generator_UserChildTable="Transactions" msprop:Generator_ChildPropName="GetTransactionsRows" msprop:Generator_UserRelationName="FK__Transacti__statu__3A81B327" msprop:Generator_ParentPropName="StatusRow" msprop:Generator_RelationVarName="relationFK__Transacti__statu__3A81B327" msprop:Generator_UserParentTable="Status" />
     </xs:appinfo>
   </xs:annotation>
+=======
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Products" />
+      <xs:field xpath="mstns:product_id" />
+    </xs:unique>
+  </xs:element>
+>>>>>>> e187b429e05a4087e08be1ae54dfdf878932274f
 </xs:schema>
